@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jaRobison/test-app/issues"
   },
-  "homepage": "https://github.com/jaRobison/test-app#readme"
+  "homepage": "https://github.com/jaRobison/test-app#readme",
+  "dependencies": {
+    "electron-simple-updater": "^1.2.4"
+  }
 }
